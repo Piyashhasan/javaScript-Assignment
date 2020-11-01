@@ -15,7 +15,7 @@ function woodCalculator(chair, table, bed) {
   return totalValue;
 }
 var totalQubicWood = woodCalculator(2, 3, 3);
-console.log("Total number of QUbic wood is :", totalQubicWood);
+console.log("Total number of Qubic wood is :", totalQubicWood);
 
 //Problem-3: brickCalculator (Start)
 
@@ -35,9 +35,9 @@ function brickCalculator(value) {
   }
   return feetValue;
 }
-var totalFeet = brickCalculator(21);
+var totalFeet = brickCalculator(10);
 var totalBricks = totalFeet * 1000;
-console.log('Total Bricks is :', totalBricks);
+console.log("Total Bricks is :", totalBricks);
 
 //Problem-4: Find out the tinyFriend name (Start)
 
